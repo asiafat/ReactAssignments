@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+/*table {
+  border: 2px solid black;
+  width: 500px;
+  height: 100px;
+}
+  
+th {
+  border: 2px solid black;
+  border-bottom: 1px solid black;
+}
+  
+td {
+  border: 2px solid black;
+  text-align: center;
+}*/
